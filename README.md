@@ -3,3 +3,4 @@ added p5.vscode,p5 server,p5 project creator,p5 snippets and tools extensions in
 open command pallette > Creat p5.js project
 put libraries in project folder
 make sure index.html includes the p5 sound libraries within script src=
+Need to have .mp3 file within your project folder. Add it into VScode.
